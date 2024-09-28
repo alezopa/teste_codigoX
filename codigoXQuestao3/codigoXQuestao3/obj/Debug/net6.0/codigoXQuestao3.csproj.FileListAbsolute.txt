@@ -1,0 +1,15 @@
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\bin\Debug\net6.0\codigoXQuestao3.exe
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\bin\Debug\net6.0\codigoXQuestao3.deps.json
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\bin\Debug\net6.0\codigoXQuestao3.runtimeconfig.json
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\bin\Debug\net6.0\codigoXQuestao3.dll
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\bin\Debug\net6.0\codigoXQuestao3.pdb
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\codigoXQuestao3.csproj.AssemblyReference.cache
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\codigoXQuestao3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\codigoXQuestao3.AssemblyInfoInputs.cache
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\codigoXQuestao3.AssemblyInfo.cs
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\codigoXQuestao3.csproj.CoreCompileInputs.cache
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\codigoXQuestao3.dll
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\refint\codigoXQuestao3.dll
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\codigoXQuestao3.pdb
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\codigoXQuestao3.genruntimeconfig.cache
+D:\Projetos\CODIGOX\codigoXQuestao3\codigoXQuestao3\obj\Debug\net6.0\ref\codigoXQuestao3.dll
